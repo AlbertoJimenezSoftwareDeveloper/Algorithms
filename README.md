@@ -1,5 +1,5 @@
 # Algorithms
 data structures and algorithms
 
-# Binary search
-# Bubble sorting
+- Binary search
+- Bubble sorting
