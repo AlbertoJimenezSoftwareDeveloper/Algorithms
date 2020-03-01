@@ -3,3 +3,4 @@ data structures and algorithms
 
 - Binary search
 - Bubble sorting
+- Selection Sort
